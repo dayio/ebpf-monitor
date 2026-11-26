@@ -1,4 +1,4 @@
-APP_NAME=ebpf-network-monitor
+APP_NAME=ebpf-monitor
 MAIN_FILE=cmd/$(APP_NAME)/main.go
 BIN_DIR=bin
 DATA_DIR=data
